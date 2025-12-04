@@ -104,5 +104,3 @@ Este projeto foi construído para praticar:
 * Construção de menus interativos
 * Controle de fluxo
 * Simulação de sistemas reais usando apenas bases da programação
-
-
